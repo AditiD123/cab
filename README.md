@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Some ground rules to get started
+
+- Fork first
+- keep the fork repo private
+- create a branch of unique name
+- make changes
+- push code to your remote repo
+- Create a PR for the same
