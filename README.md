@@ -18,7 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 ## Some ground rules to get started
 
 - Fork first
-- keep the fork repo private
 - create a branch of unique name
 - make changes
 - push code to your remote repo
